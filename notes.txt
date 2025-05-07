@@ -1,0 +1,7 @@
+hypertext-create links 
+markup-more than on html tag
+tags are elements of html
+-tag 1.closing tag-p atg
+     2.self closing tag-image   
+-list 1.ordered
+      2.unordered    
